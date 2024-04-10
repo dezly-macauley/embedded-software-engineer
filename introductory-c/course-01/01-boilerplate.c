@@ -1,6 +1,8 @@
 #include <stdio.h>
 
-int main() {
+// "void" means that the function takes no arguements
+// This means that it does not require any inputs to work
+int main(void) {
 
     printf("Hello World\n");
 

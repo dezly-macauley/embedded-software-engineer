@@ -53,4 +53,31 @@
 
 #### Readings
 
+---
+
+### 02 - Functions (Completed)
+
+#### Videos 
+- 01-using-functions-for-abstraction
+- 02-execution-of-function-calls
+
+#### Readings
+- 01-anatomy-of-a-function-instructions
+
+#### Quizzes 
+- 01-functions
+
+---
+
+### 03 - Printing (Complete)
+
+#### Videos 
+- 01-printing-example
+
+#### Readings
+- 01-printing
+
+#### Quizzes 
+- 01-printing
+
 -------------------------------------------------------------------------------
