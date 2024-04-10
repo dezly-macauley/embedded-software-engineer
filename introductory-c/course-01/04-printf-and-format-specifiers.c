@@ -25,4 +25,19 @@ int main(void) {
     // The value of a is: 42
     // The value of a is:      42
 
+    char firstLetterOfName = 'G';
+    printf("My name begins with %c\n", firstLetterOfName);
+   
+    // An "unsigned int" means that age is an integer
+    // that is only allowed to have a positive value
+    unsigned int age = 33;
+    printf("I am %u years old\n", age);
+    
+    float bankBalance = 28383.939;
+    printf("You have %f in your account\n", bankBalance);
+
+    // %.2f means "display floating point with 2 decimals"
+    printf("You have %.2f in your account\n", bankBalance);
+
+
 }

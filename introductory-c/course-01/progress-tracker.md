@@ -49,7 +49,9 @@
 ### 01 - Variables and expressions
 
 #### Videos 
-
+- 01-why-you-should-learn-to-read-code
+- 02-declaring-and-assigning-a-variable
+- 03-examples-of-expressions
 
 #### Readings
 
@@ -79,5 +81,69 @@
 
 #### Quizzes 
 - 01-printing
+
+---
+
+### 04 - Conditional Statements 
+
+#### Videos 
+
+
+#### Readings
+
+
+#### Quizzes 
+
+---
+
+### 06 - Review (Completed)
+
+#### Readings
+- 01-higher-level-meaning-instructions
+
+#### Exam 
+- 01-reading-code-exam
+
+-------------------------------------------------------------------------------
+
+## 03 - Types
+
+### 01 - Everything is a number 
+
+#### Videos 
+01-introduction-to-types
+
+#### Readings 
+
+---
+
+### 02 - Basic Data Types 
+
+#### Videos 
+01-types-and-formatted-output
+
+#### Readings 
+
+
+-------------------------------------------------------------------------------
+
+## 04 - Project 
+
+### 01 - Introduction (Completed)
+
+#### Videos 
+- 01-importance-of-writing-a-specific-algorithm
+
+#### Reading
+- 01-sample-pb-j-algorithm-with-feedback
+
+
+### 02 - Assignment
+
+#### Videos 
+- 01-introduction-to-sorting
+
+#### Quizzes 
+
 
 -------------------------------------------------------------------------------
