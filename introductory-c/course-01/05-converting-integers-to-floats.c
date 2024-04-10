@@ -10,9 +10,8 @@ int main(void) {
     // (float) numberOfHours is how to convert an integer to a float
 
     float averageHours = (float)numberOfHours / (float)numberOfDays;
-
     
-
+    printf("You worked %.1f hours per day\n", averageHours);
     
     return 0;
 }

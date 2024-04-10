@@ -120,10 +120,46 @@
 ### 02 - Basic Data Types 
 
 #### Videos 
-01-types-and-formatted-output
+- 01-types-and-formatted-output
 
 #### Readings 
 
+---
+
+### 03 - Expressions Have Types
+
+#### Videos 
+- 04-type-conversion
+
+#### Readings 
+
+---
+
+### 04 - Non Numbers 
+
+#### Videos 
+- 05-everything-is-a-number
+
+#### Readings 
+
+---
+
+### 05 - Complex Custom Data Types
+
+#### Videos 
+
+
+#### Readings 
+
+---
+
+### 06 - Review (Completed) 
+
+#### Videos 
+- 01-a-duke-software-engineering-student-on-the-importance-of-planning
+
+#### Quizzes 
+- 01-types
 
 -------------------------------------------------------------------------------
 
