@@ -93,7 +93,42 @@ fn main() {
     //-------------------------------------------------------------------------
 
     // NOTE: Destructuring Tuples 
+
+    // Destructuring a tuple simply means that you take each value in a tuple
+    // and and assign each one to a seperate variable.
+
+    // E.g. Let's say you had a tuple that contained 3 values.
+    // You could create 3 variables that will store each of those values
     
+    let player_stats: (i32, &str, f64) = (12, "Jake", 36.56);
+
+    let (player_index, player_name, player_rating) = player_stats;
+    
+    println!("Index of player is: {player_index}");
+    println!("Name of player is: {player_name}");
+    println!("Rating of player is: {player_rating}");
+
+    //-------------------------------------------------------------------------
+    
+    // NOTE: An empty tuple is called a unit type
+
+    let unit: () = ();
+    
+    // Unit types are usually returned implicitly when no other meaningful
+    // value could be returned.
+    // E.g. functions that don't return a value,
+    // implicitly return the unit type.
+
+    //-------------------------------------------------------------------------
+    
+    // NOTE: Type aliases 
+    // This is when you create a more convienient name for a variable type
+    // that already exists.
+   
+    // The naming convention is UpperCamelCase 
+    type AgeType = u8;
+
+    let user_age: AgeType = 57;
 
 
 
